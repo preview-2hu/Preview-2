@@ -15,7 +15,7 @@ DB_URL = os.environ.get("DB_URL", "mongodb+srv://blazeop123:blazeop123@cluster0.
 DB_NAME = os.environ.get("DB_NAME", "madflixbotz")
 
 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002313226111"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002896284296"))
 FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "0"))
 
 
